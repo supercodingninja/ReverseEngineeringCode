@@ -53,7 +53,7 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 ![<Я/E>](Assets/Media/socialPreview.png)
 
 #### Understanding The Purpose of Code Developed.
-![API](Assets/Media/apiRoutes.png) ![Server](Assets/Media/server.png ![User](Assets/Media/user.png)
+![API](Assets/Media/apiRoutes.png=320) ![Server](Assets/Media/server.png) ![User](Assets/Media/user.png)
 
 #### Expanding The Developed Code.
 [dcLogin](Assets/Media/codeExpanded/dcLogin.png) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png)

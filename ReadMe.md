@@ -1,18 +1,18 @@
-# Creating A Good ReadMe.md Generator
-##### ![script.js](Assets/Media/apple-touch-icon.png) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](https://www.youtube.com/watch?v=Pp9IG-prQjE)
-#### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
+# Reverse Engineering Code
+##### ![script.js](Assets/Media/apple-touch-icon.png) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](TBD...) •  [Google Doc Tutorial](TBD...)
+#### ReverseEngineeringCode© 2021 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
 * [Installation Instructions](#Install)
 * [Usage Information](#Usage)
-*[References](#Ref)
+* [References](#Ref)
 * [Repositiory End-Goal Criterea](#Criterea)
 * [Future Project](#Future-Project)
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
-We live in a busy world; and thriving businesses are busier.  As a developer, you want a ReadMe generator: this enables you to quickly create a professional README for a new project.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion (because you are ahead of the team).
+We live in a busy world; and thriving businesses are busier.  As a developer, who has joined a new team, you may be expected to inspect code; which you have never seen before.  Rather than having a team member explain every line for you, you can dissect the code, yourself!  This saves many unnecessary questions for team members; and provides you credibility for when you do ask.  Part of being a good developer is staying with the trend.  Learning new code and approaches are part of your great experiences as a developer.  The better you become at Reverse Engineering Code, the stronger you become as a Developer; and such a skill can also make refactoring code less challenging.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion.  Don't worry, You got this: "HELLO, WORLD!"
 
 Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 

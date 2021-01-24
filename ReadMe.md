@@ -4,14 +4,15 @@
 #### ReverseEngineeringCode© 2021 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
-* [Repository Description](#Repository-Description)
-* [Installation Instructions](#Install)
+* [Repository Description](#Repository)
+* [User Story](#User)
 * [Usage Information](#Usage)
+* [Contribution Guidelines](#Contribution)
 * [References](#Ref)
 * [Acknowledgements](#Ack)
 * [Repositiory End-Goal Criterea](#Criterea)
 
-# Repository Description
+## Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
 We live in a busy world; and thriving businesses are busier.  As a developer, who has joined a new team, you may be expected to inspect code; which you have never seen before.  Rather than having a team member explain every line for you, you can dissect the code, yourself!  This saves many unnecessary questions for team members; and provides you credibility for when you do ask.  Part of being a good developer is staying with the trend.  Learning new code and approaches are part of your great experiences as a developer.  The better you become at Reverse Engineering Code, the stronger you become as a Developer; and such a skill can also make refactoring code less challenging.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion.  Don't worry, You got this: "HELLO, WORLD!"
 
@@ -25,10 +26,9 @@ We live in a busy world; and thriving businesses are busier.  As a developer, wh
 5.   I want to use the developed code; and re-design it.
 6.   Throughtout my re-engineering process, I want to document. 
 
-### Contribution Guidelines
+## Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)
 I hope you enjoy this repository, and the application's link, given above and below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja).
-
 
 ## Test Instructions
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -54,7 +54,6 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 
 #### Expanding The Developed Code.
 [dcLogin](Assets/Media/codeExpanded/dcLogin.png) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png)
-
 
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -88,10 +87,6 @@ Make it a point to tackle new code, weekly (at least, periodaclly); and break it
 ## License
 MIT
 
-Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/CodeQuiz ).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
+<font size="8"> Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</font> 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+<font size="6"> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</font> 

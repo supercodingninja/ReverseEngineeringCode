@@ -47,12 +47,12 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 
 ### Media
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Яeveverse Enginering Process[R. E. Process](Assets/Media/_slideshare_EmilyCoggins.jpg)
+#### Яeveverse Enginering Process ![R. E. Process](Assets/Media/_slideshare_EmilyCoggins.jpg)
 
-#### [Additional YouTube Tutorial w/Anshuman Biswal](https://www.youtube.com/watch?v=AqPqD5Amjks) [<Я/E>](Assets/Media/socialPreview.png)
+#### [Additional YouTube Tutorial w/Anshuman Biswal](https://www.youtube.com/watch?v=AqPqD5Amjks)![<Я/E>](Assets/Media/socialPreview.png)
 
 #### Understanding The Purpose of Code Developed.
-[API](Assets/Media/apiRoutes.png =100x20) [Server](Assets/Media/server.png =100x20) [User](Assets/Media/user.png =100x20)
+![API](Assets/Media/apiRoutes.png =100x20) ![Server](Assets/Media/server.png =100x20) ![User](Assets/Media/user.png =100x20)
 
 #### Expanding The Developed Code.
 [dcLogin](Assets/Media/codeExpanded/dcLogin.png =100x20) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png =100x20)

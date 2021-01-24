@@ -44,13 +44,17 @@ I hope you enjoy this repository, and the application's link, given above and be
 Created an awesome and generic ReadMe.md file; which can be utilize for future endeavors!  I hope you enjoy this repository, and the application's link, given above and below (I love developing new projects).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja)
 
 
-### Screenshots (Building this application)
+### Media
 ###### [Back to Table of Contents](#Table-of-Contents)
-#### Demo I createad ![script.js](Assets/Media/JS.png)
+#### Яeveverse Enginering Process[R. E. Process](Assets/Media/_slideshare_EmilyCoggins.jpg)
 
-#### Demo I createad ![fileGenerator.js](Assets/Media/FileGenerator.png)
+#### [Additional YouTube Tutorial w/Anshuman Biswal](https://www.youtube.com/watch?v=AqPqD5Amjks) [<Я/E>](Assets/Media/socialPreview.png)
 
-#### Demo I createad ![ReadMe.md](Assets/Media/ReadMe.png)
+#### Understanding The Purpose of Code Developed.[API](Assets/Media/apiRoutes.png)
+
+#### Understanding The Purpose of Code Developed.[Server(Assets/Media/server.png)
+
+#### Understanding The Purpose of Code Developed.[User](Assets/Media/user.png)
 
 
 ## References

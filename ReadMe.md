@@ -50,18 +50,33 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 
 #### [Additional YouTube Tutorial w/Anshuman Biswal](https://www.youtube.com/watch?v=AqPqD5Amjks) [<Я/E>](Assets/Media/socialPreview.png)
 
-#### Understanding The Purpose of Code Developed.[API](Assets/Media/apiRoutes.png)
+#### Understanding The Purpose of Code Developed.
+[API](Assets/Media/apiRoutes.png =100x20) [Server](Assets/Media/server.png =100x20) [User](Assets/Media/user.png =100x20)
 
-#### Understanding The Purpose of Code Developed.[Server(Assets/Media/server.png)
-
-#### Understanding The Purpose of Code Developed.[User](Assets/Media/user.png)
+#### Expanding The Developed Code.
+[dcLogin](Assets/Media/codeExpanded/dcLogin.png =100x20) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png =100x20)
 
 
 ## References
 ###### [Back to Table of Contents](#Table-of-Contents)
-1.  NPMjs](https://www.npmjs.com/package/inquirer) provides Documentation, Installation, Examples, Methods, Objects, Questions, Answers, Separator, Prompt Types, User Interfaces and Layouts, Reactive Interface, Support, Known issues, News, Contributing, License, and Plugins.  This was the core of this project; so be sure to view this resource, for your own future developments.
+1.  [NPMjs](https://www.npmjs.com/) provides Documentation, Installation, Examples, Methods, Objects, Questions, Answers, Separator, Prompt Types, User Interfaces and Layouts, Reactive Interface, Support, Known issues, News, Contributing, License, and Plugins.
 
 2.  [Shields IO](https://shields.io/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
+
+3.  [How to Reverse Engineer Web Applications](https://www.slideshare.net/JarrodOverson/how-to-reverse-engineer-web-applications) here, Jarrod Overson, Director at Shape Security, shares workshop slides (originally given at the WOPR Summit in Atlantic City). He suggest to use JavaScript parsers and generators (like Shift, combined with Puppeteer), and Chrome to reverse engineer web applications.
+
+4.  **[Eloquent JavaScript](https://eloquentjavascript.net/)**, 3rd edition (2018)
+This is a book about JavaScript, programming, and digital wonders. Read it online here; or get your own paperback copy.  Written by Marijn Haverbeke.  Licensed under a Creative Commons attribution-noncommercial license. All code in this book may also be considered licensed under an MIT license.
+
+5.  [Guide to Handlebars: Templating Engine for Node/JavaScript](https://stackabuse.com/guide-to-handlebars-templating-engine-for-node/) explains that express is a routing, and middleware is a web framework; which has minimal functionality of its own (express applications are series of middleware function calls).
+
+6.  [Using Middleware and Express](https://expressjs.com/en/guide/using-middleware.html) **Guide to Handlebars: Templating Engine for Node/JavaScript**, by Janith Kasun helps you understand Template Engines, Handlebars; and how to use them!
+
+7.  [Web Application Architecture](https://hackr.io/blog/web-application-architecture-definition-models-types-and-more) describes architecture, Models of Web Componets,Types of Web Application Architecture; and Web App Development Tips!
+
+8.  [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
+
+9.  [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)

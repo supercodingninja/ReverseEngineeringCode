@@ -52,7 +52,7 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 #### [Additional YouTube Tutorial w/ Anshuman Biswal](https://www.youtube.com/watch?v=AqPqD5Amjks)![<Я/E>](Assets/Media/socialPreview.png)
 
 #### Understanding The Purpose of Code Developed.
-![API](Assets/Media/apiRoutes.png=100x20) ![Server](Assets/Media/server.png=100x20) ![User](Assets/Media/user.png=100x20)
+![API](Assets/Media/apiRoutes.png=640x380) ![Server](Assets/Media/server.png=300x200) ![User](Assets/Media/user.png=380x250)
 
 #### Expanding The Developed Code.
 [dcLogin](Assets/Media/codeExpanded/dcLogin.png =100x20) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png =100x20)

@@ -9,24 +9,20 @@
 * [Usage Information](#Usage)
 * [References](#Ref)
 * [Repositiory End-Goal Criterea](#Criterea)
-* [Future Project](#Future-Project)
 
 # Repository Description
 ###### [Back to Table of Contents](#Table-of-Contents)
 We live in a busy world; and thriving businesses are busier.  As a developer, who has joined a new team, you may be expected to inspect code; which you have never seen before.  Rather than having a team member explain every line for you, you can dissect the code, yourself!  This saves many unnecessary questions for team members; and provides you credibility for when you do ask.  Part of being a good developer is staying with the trend.  Learning new code and approaches are part of your great experiences as a developer.  The better you become at Reverse Engineering Code, the stronger you become as a Developer; and such a skill can also make refactoring code less challenging.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion.  Don't worry, You got this: "HELLO, WORLD!"
 
 ## User Story
-### As the Quiz Administrator
+### As A Developer
 ###### [Back to Table of Contents](#Table-of-Contents)
-1.   I a command-line application that accepts user input.
-2.   I want to be prompted for information about my application repository.
-3.   I want a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contribution Guidelines, Tests Instructions, and Questions.
-4.   I want my project title to display as the title of the README.
-5.   I want a description, installation instructions, usage information, contribution guidelines, and test instructions; and then, this information is added to the sections of the README entitled Description, Installation, Usage, Contribution Guidelines, and Tests Instructions.
-6.   I want to choose a license for my application from a list of options; and then a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under.  
-7.   I want to enter my GitHub username; ant then this is added to the section of the README entitled Questions, with a link to my GitHub profile.
-8.   I want to enter my email address; and then this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions.
-9.   I want to click on the links in the Table of Contents; and then, I am taken to the corresponding section of the README.
+1.   I want to want to understand the purpose and design goals, for the code developed.
+2.   I want observe and develop ideas of how the developed code works.
+3.   I want a to disassemble the developed code into basic concepts.
+4.   I want to anaylze the developed code, ensure functionality and structure, have al materials and development tools needed.
+5.   I want to use the developed code; and re-design it.
+6.   Throughtout my re-engineering process, I want to document. 
 
 ### Contribution Guidelines
 ###### [Back to Table of Contents](#Table-of-Contents)

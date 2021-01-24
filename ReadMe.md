@@ -14,8 +14,6 @@
 ###### [Back to Table of Contents](#Table-of-Contents)
 We live in a busy world; and thriving businesses are busier.  As a developer, who has joined a new team, you may be expected to inspect code; which you have never seen before.  Rather than having a team member explain every line for you, you can dissect the code, yourself!  This saves many unnecessary questions for team members; and provides you credibility for when you do ask.  Part of being a good developer is staying with the trend.  Learning new code and approaches are part of your great experiences as a developer.  The better you become at Reverse Engineering Code, the stronger you become as a Developer; and such a skill can also make refactoring code less challenging.  This may even be the difference between staying on task(s), maintaining a job; or even eceiving a promotion.  Don't worry, You got this: "HELLO, WORLD!"
 
-Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
-
 ## User Story
 ### As the Quiz Administrator
 ###### [Back to Table of Contents](#Table-of-Contents)
@@ -63,7 +61,7 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)
-Stay on task, Get Ahead, Change The World!
+Make it a point to tackle new code, weekly (at least, periodaclly); and break it down.  Try to understand the concepts, yourself.  This only makes you more credible, and a stonger developer: because you've taken the tim to study!  Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development.  Stay on task, Get Ahead, Change The World! - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
 ## License
 MIT

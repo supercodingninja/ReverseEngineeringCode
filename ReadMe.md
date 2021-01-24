@@ -1,6 +1,6 @@
 # Reverse Engineering Code
 ##### ![script.js](Assets/Media/apple-touch-icon.png)
-![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen)[SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](TBD...) •  [Google Doc Tutorial](https://docs.google.com/document/d/1JqL6OqhfXQUWXHzKRpVzUDrtP4S6LZtXxIArnMLAUTk/edit)
+![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](TBD...) •  [Google Doc Tutorial](https://docs.google.com/document/d/1JqL6OqhfXQUWXHzKRpVzUDrtP4S6LZtXxIArnMLAUTk/edit)
 #### ReverseEngineeringCode© 2021 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
@@ -53,7 +53,7 @@ Created an awesome and generic ReadMe.md file; which can be utilize for future e
 ![<Я/E>](Assets/Media/socialPreview.png)
 
 #### Understanding The Purpose of Code Developed.
-![API](Assets/Media/apiRoutes.png=320) ![Server](Assets/Media/server.png) ![User](Assets/Media/user.png)
+![API](Assets/Media/apiRoutes.png) ![Server](Assets/Media/server.png) ![User](Assets/Media/user.png)
 
 #### Expanding The Developed Code.
 [dcLogin](Assets/Media/codeExpanded/dcLogin.png) [bgAddedLogin](Assets/Media/codeExpanded/bgAddedLogin.png)

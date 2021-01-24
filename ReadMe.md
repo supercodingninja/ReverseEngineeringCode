@@ -79,7 +79,7 @@ This is a book about JavaScript, programming, and digital wonders. Read it onlin
 
 ## Ackowledgements
 ###### [Back to Table of Contents](#Table-of-Contents)
-CodeBase provided by [University of Washington](https://www.pce.uw.edu/), and [Trilogy Education](https://www.trilogyed.com/) (a 2U, Inc. brand).
+CodeBase provided by [University of Washington](https://www.pce.uw.edu/), and [Trilogy Education](https://www.trilogyed.com/) (a 2U, Inc. brand),  in coorelation to their Seattle Partnership [UW Coding Bootcamp](https://bootcamp.uw.edu/).
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)

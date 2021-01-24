@@ -8,6 +8,7 @@
 * [Installation Instructions](#Install)
 * [Usage Information](#Usage)
 * [References](#Ref)
+* [Acknowledgements](#Ack)
 * [Repositiory End-Goal Criterea](#Criterea)
 
 # Repository Description
@@ -75,6 +76,10 @@ This is a book about JavaScript, programming, and digital wonders. Read it onlin
 8.  [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
 
 9.  [Markdown Syntax](https://www.markdownguide.org/basic-syntax/) provides documentations on how to add your shield, for creditbility.  Please feel free to view this resource, for your future developments.
+
+## Ackowledgements
+###### [Back to Table of Contents](#Table-of-Contents)
+CodeBase provided by [University of Washington](https://www.pce.uw.edu/), and [Trilogy Education](https://www.trilogyed.com/) (a 2U, Inc. brand).
 
 ## Repositiory End-Goal Criterea
 ###### [Back to Table of Contents](#Table-of-Contents)

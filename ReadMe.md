@@ -1,6 +1,6 @@
 # Reverse Engineering Code
 ##### ![script.js](Assets/Media/apple-touch-icon.png)
-![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](TBD...) •  [Google Doc Tutorial](https://docs.google.com/document/d/1JqL6OqhfXQUWXHzKRpVzUDrtP4S6LZtXxIArnMLAUTk/edit)
+![Badge](https://img.shields.io/badge/GitHub-Arctic%20Code%20Vault%20Contributor-brightgreen) [SuperCodingNinja](https://github.com/supercodingninja) •  [Email Me](mailto:SuperCodingNinja@outlook.com) •  [Video Tutorial](TBD...Redoing for social media) •  [Google Doc Tutorial](Re-editing, with various softwares; and implementing in Google Docs https://docs.google.com/document/d/1JqL6OqhfXQUWXHzKRpVzUDrtP4S6LZtXxIArnMLAUTk/edit)
 #### ReverseEngineeringCode© 2021 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
